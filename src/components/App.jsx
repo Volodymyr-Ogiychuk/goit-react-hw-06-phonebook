@@ -43,7 +43,7 @@ const App = () => {
   return (
     <>
       <div>
-        <h1 className={s.title}>Phonebook</h1>
+        <h1 className={s.title}>Phonebook #6</h1>
         <ContactForm
           contacts={contacts}
           addContact={addContact}
